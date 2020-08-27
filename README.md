@@ -3,3 +3,5 @@ This script file helps to find the path of the files in side a directory and the
 
 
 Sample input output of the program could be seen below
+
+![SAMPLE_I:O](/SAMPLE_I:O.png)
